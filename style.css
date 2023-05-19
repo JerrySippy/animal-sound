@@ -6,7 +6,7 @@
 
 .header_div p{
 
-font-family: 'Roboto',sans-serif;
+    font-family: 'Montserrat', sans-serif;
 color: rgb(220, 187, 20);
 letter-spacing: 2px;
 font-size: 12px;
@@ -14,7 +14,8 @@ font-weight: bold;
 }
 
 .main_div button{
-font-family: 'Roboto',sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
 margin-top: 30px;
     width: 130px;
 font-weight: bolder;
@@ -32,5 +33,11 @@ background-color: rgb(255, 0, 170);
 line-height: 3;
 text-align: center;
 text-shadow: 5px 5px 5px rbg(151,149,149);
+
+}
+
+body{
+    font-family: 'Ysabeau', sans-serif;
+    background: blue;
 
 }
